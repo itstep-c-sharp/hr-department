@@ -1,0 +1,10 @@
+D:\WinForms\Projects\HR-Department\HR-Department\bin\Debug\HR-Department.exe.config
+D:\WinForms\Projects\HR-Department\HR-Department\bin\Debug\HR-Department.exe
+D:\WinForms\Projects\HR-Department\HR-Department\bin\Debug\HR-Department.pdb
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR-Department.csprojResolveAssemblyReference.cache
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR_Department.Form1.resources
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR_Department.Properties.Resources.resources
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR-Department.csproj.GenerateResource.Cache
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR-Department.exe
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR-Department.pdb
+D:\WinForms\Projects\HR-Department\HR-Department\obj\Debug\HR_Department.Departments.resources

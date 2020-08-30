@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <employee name="Пупкин Василий" birth="1990-10-15" email="vasya@ukr.net" phone="111-11-11" spec="программист" pos="middle" salary="2000" expir="2" dep="Компьютерный отдел" photo="emp1.jpg" />
+  <employee name="Андреев Андрей" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Компьютерный отдел" photo="emp2.jpg" />
+  <employee name="Сергеев Сергей" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Компьютерный отдел" photo="emp3.jpg" />
+  <employee name="Светина Светлана" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Маркетинговый отдел" photo="emp4.jpg" />
+  <employee name="Маринина Марина" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Маркетинговый отдел" photo="emp5.jpg" />
+  <employee name="Жанина Жанна" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Маркетинговый отдел" photo="emp6.jpg" />
+  <employee name="$1" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Финансовый отдел" photo="emp7.jpg" />
+  <employee name="$2" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Финансовый отдел" photo="emp8.jpg" />
+  <employee name="$3" birth="" email="" phone="" spec="" pos="" salary="" expir="" dep="Финансовый отдел" photo="emp9.jpg" />
+</root>
